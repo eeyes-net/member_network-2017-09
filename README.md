@@ -4,6 +4,11 @@ e瞳网15周年站庆特别网站
 
 <https://15th.eeyes.net/>
 
+## 时间轴
+
+* 9月11日：开工
+* 9月14日：前端HTML和CSS完成
+
 ## 相关仓库
 
 * 后端API：<https://github.com/cantjie/eeyes-15th-anniversary>
